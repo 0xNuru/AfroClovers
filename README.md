@@ -7,13 +7,12 @@ This repo contains the code for Afro Clover's website
 ---
 
 > Some of our proposals
->
-> [C-Wins Proposal](https://docs.google.com/document/d/1yHpax5aUjYjSKHB4dupFxXhKQOKBXaqXM4S6oMb-qvY/edit?usp=sharing)
 
-> [HSE Proposal](https://docs.google.com/document/d/14udCGFbSt6bSqzmjeIqk4SlWg47YMnZxyZwVD0sfA2Q/edit?usp=sharing)
+- [C-Wins Proposal](https://docs.google.com/document/d/1yHpax5aUjYjSKHB4dupFxXhKQOKBXaqXM4S6oMb-qvY/edit?usp=sharing)
+
+- [HSE Proposal](https://docs.google.com/document/d/14udCGFbSt6bSqzmjeIqk4SlWg47YMnZxyZwVD0sfA2Q/edit?usp=sharing)
 
 ---
 
-> This website will be the portfolio for Afro Clovers. It will showcase all our partnerships and history with clients.
-
+> This website will be the portfolio for Afro Clovers. It will showcase all our partnerships and history with clients.  
 > Ultimately, I plan on making it a platform that clients can use to apply for services. For example, a web application, data analysis, etc.
