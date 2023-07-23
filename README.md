@@ -15,4 +15,4 @@ This repo contains the code for Afro Clover's website
 ---
 
 > This website will be the portfolio for Afro Clovers. It will showcase all our partnerships and history with clients.  
-> Ultimately, I plan on making it a platform that clients can use to apply for services. For example, a web application, data analysis, etc.
+> Ultimately, The goal is to make it a platform that clients can use to apply for services. For example, a web application, data analysis, Hosting etc.
